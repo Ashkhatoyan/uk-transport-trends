@@ -104,14 +104,6 @@ fig = px.bar(mode_counts, x="Mode", y="Total Bikes")
 
 ---
 
-## 🧪 Want to Customize It?
-
-* Want to add maps? Use `pydeck` or `folium`
-* Want to deploy? Try [Streamlit Cloud](https://streamlit.io/cloud)
-* Want to connect to real-time data? Add an API fetch in the ETL script
-
----
-
 ## ✨ Credits
 
 Built with ❤️ by Albert
