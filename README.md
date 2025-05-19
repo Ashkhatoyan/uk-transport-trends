@@ -22,7 +22,7 @@ pip install streamlit pandas plotly
 
 ### 2. Put your data in
 
-Drop all the `.csv` files into the `raw_data/` folder.
+Drop all the `.csv` files into the `data/` folder.
 
 ### 3. Load data into the database
 
@@ -117,6 +117,3 @@ fig = px.bar(mode_counts, x="Mode", y="Total Bikes")
 Built with ❤️ by Albert
 Just having fun with data and making dashboards more fun to explore!
 
-```
-
----
